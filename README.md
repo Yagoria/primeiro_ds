@@ -1,2 +1,2 @@
 # primeiro_ds
-meu primeiro repositório e conectando ao git 
+meu primeiro repositório, conectando git a um projeto
